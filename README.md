@@ -1,5 +1,5 @@
 # project-update-skillz-2016-
-/modernize for mobile big date applications
+/modernize toolset for mobile big data applications
 
 
 
